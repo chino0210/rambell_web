@@ -9,5 +9,3 @@ Primero se va crear el BackEnd, con Django
 $ python manage.py startapp publish_articles
 ```
 Aplicacion para publicación de datos y to eso ps Xd
-
-# 
